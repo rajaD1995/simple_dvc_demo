@@ -1,0 +1,4 @@
+dvc==2.9.5
+dvc[gdrive]==2.9.5
+fsspec==2022.7.1
+scikit-learn==1.0.2
